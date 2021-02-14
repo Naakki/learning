@@ -1,5 +1,9 @@
 First file Branch
 
 Some new addition
+<<<<<<< HEAD
 
 One more
+=======
+Wowowowowow
+>>>>>>> dev
